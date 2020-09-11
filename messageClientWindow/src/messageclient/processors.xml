@@ -1,0 +1,7 @@
+<Processors>
+	<Processor name="text" class="messageclient.model.service.MessageTextProcessor"></Processor>
+	<Processor name="userList" class="messageclient.model.service.MessageUserListProcessor"></Processor>
+	<Processor name="logout" class="messageclient.model.service.MessageLogoutProcessor"></Processor>
+	<Processor name="image" class="messageclient.model.service.MessageImageProcessor"></Processor>
+	<Processor name="file" class="messageclient.model.service.MessageFileProcessor"></Processor>
+</Processors>
